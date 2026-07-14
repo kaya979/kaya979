@@ -1,10 +1,9 @@
-- 👋 Hi all, I’m Kaya Karakaya on github@kaya979.
-- 👀 Enthusiast about Linux, Salt, Terraform, Power and Vmware infrastructure, cloud and AI.
-- 🌱 I am steadily advancing in deploying resources like servers onprem and online with Salt and Terraform. 
-- 🌱 Focus is on Linux, Salt, Terraform.
+- 👋 Hi all, I’m kaya979.
+- 👀 Enthusiast about Linux, Salt, Terraform, Power and Vmware infrastructure, cloud.
+- 🌱 I do platform engineering with Salt and Terraform. 
 - 💞️ I’m looking to collaborate on cloud projects.
-- 📫 How to reach me? ==> kaya.md@gmail.com
--    When things get tough, I learned to not give up and think "I will figure it out". Slowly advance. Compound increase. Ups and downs will come and go. My perseverance is all that is needed. I discipline myself to show up on time and keep myself trajected in the 24 hours I have in a day. Like a rock in a storm I am, I remind constantly, that all things and thoughts will pass. I am a student also of musashi, being present, alone, not for you or her, for me. Dokodo, walking the path alone, aware.
+- 📫 How to reach me? ==> kaya.md@live.com
+-    When things get tough, do not give up but think "I will figure it out". Slowly advance. Compound increase. Ups and downs will come and go. Perseverance is all that is needed. Discipline yourself by showing up (on time) and keep the trajec. Like a rock in a storm your are, remember, that all things and thoughts will pass.
 
 <!---
 kaya979/kaya979 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
